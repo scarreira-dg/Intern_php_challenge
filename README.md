@@ -135,7 +135,7 @@ Create test cases to make sure your app is behaving correctly. E.g. insert users
 
 # Deadline
 
-You have until Monday 27th July at 20:00H to deliver your project.
+You have until 2 days to deliver your project.
 
 # How to deliver
 
